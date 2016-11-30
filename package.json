@@ -1,10 +1,29 @@
 {
-  "name": "de_app",
-  "private": true,
-  "scripts": {
-    "start": "meteor run"
+  "name": "agency",
+  "title": "WEB&PRINT Agency",
+  "version": "3.3.7+1",
+  "homepage": "http://startbootstrap.com/template-overviews/agency",
+  "author": "Start Bootstrap",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
   },
-  "dependencies": {
-    "meteor-node-stubs": "~0.2.0"
+  "devDependencies": {
+    "autoprefixer": "^6.5.2",
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-size": "^2.1.0",
+    "gulp-sourcemaps": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
   }
 }
